@@ -1,0 +1,122 @@
+2026-01-28 00:41:47,202 - INFO - Starting BrainMat analysis pipeline...
+2026-01-28 00:41:47,203 - INFO - Found participants: ['P01', 'P02', 'P03', 'P04', 'P05', 'P06', 'P07', 'P08', 'P09', 'P10', 'P11', 'P12', 'P13', 'P14', 'P15', 'P16', 'P17', 'P18', 'P19', 'P20', 'P21']
+2026-01-28 00:41:47,221 - INFO - Loaded ./data/P01_before.csv with shape (315, 43)
+2026-01-28 00:41:47,224 - INFO - HSI filtering: kept 270/315 rows (allowed=[1, 2])
+2026-01-28 00:41:47,234 - INFO - Loaded ./data/P01_during.csv with shape (1111, 43)
+2026-01-28 00:41:47,234 - INFO - HSI filtering: kept 475/1111 rows (allowed=[1, 2])
+2026-01-28 00:41:47,238 - INFO - Saved participant summary: ./results/metrics/P01_summary.csv
+2026-01-28 00:41:47,241 - INFO - Loaded ./data/P02_before.csv with shape (342, 43)
+2026-01-28 00:41:47,242 - INFO - HSI filtering: kept 236/342 rows (allowed=[1, 2])
+2026-01-28 00:41:47,250 - INFO - Loaded ./data/P02_during.csv with shape (1095, 43)
+2026-01-28 00:41:47,251 - INFO - HSI filtering: kept 550/1095 rows (allowed=[1, 2])
+2026-01-28 00:41:47,253 - INFO - Saved participant summary: ./results/metrics/P02_summary.csv
+2026-01-28 00:41:47,257 - INFO - Loaded ./data/P03_before.csv with shape (587, 43)
+2026-01-28 00:41:47,258 - INFO - HSI filtering: kept 307/587 rows (allowed=[1, 2])
+2026-01-28 00:41:47,265 - INFO - Loaded ./data/P03_during.csv with shape (630, 43)
+2026-01-28 00:41:47,266 - INFO - HSI filtering: kept 33/630 rows (allowed=[1, 2])
+2026-01-28 00:41:47,269 - INFO - Saved participant summary: ./results/metrics/P03_summary.csv
+2026-01-28 00:41:47,272 - INFO - Loaded ./data/P04_before.csv with shape (331, 43)
+2026-01-28 00:41:47,272 - INFO - HSI filtering: kept 259/331 rows (allowed=[1, 2])
+2026-01-28 00:41:47,280 - INFO - Loaded ./data/P04_during.csv with shape (1520, 43)
+2026-01-28 00:41:47,281 - INFO - HSI filtering: kept 1/1520 rows (allowed=[1, 2])
+2026-01-28 00:41:47,283 - INFO - Saved participant summary: ./results/metrics/P04_summary.csv
+2026-01-28 00:41:47,287 - INFO - Loaded ./data/P05_before.csv with shape (566, 43)
+2026-01-28 00:41:47,287 - INFO - HSI filtering: kept 280/566 rows (allowed=[1, 2])
+2026-01-28 00:41:47,294 - INFO - Loaded ./data/P05_during.csv with shape (1297, 43)
+2026-01-28 00:41:47,295 - INFO - HSI filtering: kept 343/1297 rows (allowed=[1, 2])
+2026-01-28 00:41:47,298 - INFO - Saved participant summary: ./results/metrics/P05_summary.csv
+2026-01-28 00:41:47,301 - INFO - Loaded ./data/P06_before.csv with shape (379, 43)
+2026-01-28 00:41:47,301 - INFO - HSI filtering: kept 329/379 rows (allowed=[1, 2])
+2026-01-28 00:41:47,309 - INFO - Loaded ./data/P06_during.csv with shape (1076, 43)
+2026-01-28 00:41:47,310 - INFO - HSI filtering: kept 553/1076 rows (allowed=[1, 2])
+2026-01-28 00:41:47,312 - INFO - Saved participant summary: ./results/metrics/P06_summary.csv
+2026-01-28 00:41:47,315 - INFO - Loaded ./data/P07_before.csv with shape (367, 43)
+2026-01-28 00:41:47,316 - INFO - HSI filtering: kept 298/367 rows (allowed=[1, 2])
+2026-01-28 00:41:47,320 - INFO - Loaded ./data/P07_during.csv with shape (359, 43)
+2026-01-28 00:41:47,320 - INFO - HSI filtering: kept 87/359 rows (allowed=[1, 2])
+2026-01-28 00:41:47,323 - INFO - Saved participant summary: ./results/metrics/P07_summary.csv
+2026-01-28 00:41:47,327 - INFO - Loaded ./data/P08_before.csv with shape (547, 43)
+2026-01-28 00:41:47,327 - INFO - HSI filtering: kept 386/547 rows (allowed=[1, 2])
+2026-01-28 00:41:47,333 - INFO - Loaded ./data/P08_during.csv with shape (1108, 43)
+2026-01-28 00:41:47,334 - INFO - HSI filtering: kept 358/1108 rows (allowed=[1, 2])
+2026-01-28 00:41:47,337 - INFO - Saved participant summary: ./results/metrics/P08_summary.csv
+2026-01-28 00:41:47,339 - INFO - Loaded ./data/P09_before.csv with shape (257, 43)
+2026-01-28 00:41:47,340 - INFO - HSI filtering: kept 181/257 rows (allowed=[1, 2])
+2026-01-28 00:41:47,347 - INFO - Loaded ./data/P09_during.csv with shape (1503, 43)
+2026-01-28 00:41:47,348 - INFO - HSI filtering: kept 351/1503 rows (allowed=[1, 2])
+2026-01-28 00:41:47,350 - INFO - Saved participant summary: ./results/metrics/P09_summary.csv
+2026-01-28 00:41:47,353 - INFO - Loaded ./data/P10_before.csv with shape (375, 43)
+2026-01-28 00:41:47,353 - INFO - HSI filtering: kept 42/375 rows (allowed=[1, 2])
+2026-01-28 00:41:47,359 - INFO - Loaded ./data/P10_during.csv with shape (834, 43)
+2026-01-28 00:41:47,360 - INFO - HSI filtering: kept 285/834 rows (allowed=[1, 2])
+2026-01-28 00:41:47,362 - INFO - Saved participant summary: ./results/metrics/P10_summary.csv
+2026-01-28 00:41:47,365 - INFO - Loaded ./data/P11_before.csv with shape (324, 43)
+2026-01-28 00:41:47,365 - INFO - HSI filtering: kept 263/324 rows (allowed=[1, 2])
+2026-01-28 00:41:47,370 - INFO - Loaded ./data/P11_during.csv with shape (441, 43)
+2026-01-28 00:41:47,371 - INFO - HSI filtering: kept 298/441 rows (allowed=[1, 2])
+2026-01-28 00:41:47,373 - INFO - Saved participant summary: ./results/metrics/P11_summary.csv
+2026-01-28 00:41:47,376 - INFO - Loaded ./data/P12_before.csv with shape (449, 43)
+2026-01-28 00:41:47,377 - INFO - HSI filtering: kept 224/449 rows (allowed=[1, 2])
+2026-01-28 00:41:47,383 - INFO - Loaded ./data/P12_during.csv with shape (1164, 43)
+2026-01-28 00:41:47,384 - INFO - HSI filtering: kept 463/1164 rows (allowed=[1, 2])
+2026-01-28 00:41:47,386 - INFO - Saved participant summary: ./results/metrics/P12_summary.csv
+2026-01-28 00:41:47,389 - INFO - Loaded ./data/P13_before.csv with shape (299, 43)
+2026-01-28 00:41:47,389 - INFO - HSI filtering: kept 240/299 rows (allowed=[1, 2])
+2026-01-28 00:41:47,396 - INFO - Loaded ./data/P13_during.csv with shape (1101, 43)
+2026-01-28 00:41:47,397 - INFO - HSI filtering: kept 621/1101 rows (allowed=[1, 2])
+2026-01-28 00:41:47,400 - INFO - Saved participant summary: ./results/metrics/P13_summary.csv
+2026-01-28 00:41:47,403 - INFO - Loaded ./data/P14_before.csv with shape (372, 43)
+2026-01-28 00:41:47,403 - INFO - HSI filtering: kept 273/372 rows (allowed=[1, 2])
+2026-01-28 00:41:47,410 - INFO - Loaded ./data/P14_during.csv with shape (1095, 43)
+2026-01-28 00:41:47,411 - INFO - HSI filtering: kept 542/1095 rows (allowed=[1, 2])
+2026-01-28 00:41:47,414 - INFO - Saved participant summary: ./results/metrics/P14_summary.csv
+2026-01-28 00:41:47,416 - INFO - Loaded ./data/P15_before.csv with shape (369, 43)
+2026-01-28 00:41:47,417 - INFO - HSI filtering: kept 351/369 rows (allowed=[1, 2])
+2026-01-28 00:41:47,421 - INFO - Loaded ./data/P15_during.csv with shape (480, 43)
+2026-01-28 00:41:47,422 - INFO - HSI filtering: kept 203/480 rows (allowed=[1, 2])
+2026-01-28 00:41:47,425 - INFO - Saved participant summary: ./results/metrics/P15_summary.csv
+2026-01-28 00:41:47,428 - INFO - Loaded ./data/P16_before.csv with shape (406, 43)
+2026-01-28 00:41:47,429 - INFO - HSI filtering: kept 284/406 rows (allowed=[1, 2])
+2026-01-28 00:41:47,436 - INFO - Loaded ./data/P16_during.csv with shape (1191, 43)
+2026-01-28 00:41:47,437 - INFO - HSI filtering: kept 244/1191 rows (allowed=[1, 2])
+2026-01-28 00:41:47,440 - INFO - Saved participant summary: ./results/metrics/P16_summary.csv
+2026-01-28 00:41:47,443 - INFO - Loaded ./data/P17_before.csv with shape (366, 43)
+2026-01-28 00:41:47,443 - INFO - HSI filtering: kept 291/366 rows (allowed=[1, 2])
+2026-01-28 00:41:47,449 - INFO - Loaded ./data/P17_during.csv with shape (819, 43)
+2026-01-28 00:41:47,450 - INFO - HSI filtering: kept 20/819 rows (allowed=[1, 2])
+2026-01-28 00:41:47,452 - INFO - Saved participant summary: ./results/metrics/P17_summary.csv
+2026-01-28 00:41:47,455 - INFO - Loaded ./data/P18_before.csv with shape (375, 43)
+2026-01-28 00:41:47,456 - INFO - HSI filtering: kept 275/375 rows (allowed=[1, 2])
+2026-01-28 00:41:47,462 - INFO - Loaded ./data/P18_during.csv with shape (1071, 43)
+2026-01-28 00:41:47,463 - INFO - HSI filtering: kept 580/1071 rows (allowed=[1, 2])
+2026-01-28 00:41:47,466 - INFO - Saved participant summary: ./results/metrics/P18_summary.csv
+2026-01-28 00:41:47,468 - INFO - Loaded ./data/P19_before.csv with shape (350, 43)
+2026-01-28 00:41:47,469 - INFO - HSI filtering: kept 269/350 rows (allowed=[1, 2])
+2026-01-28 00:41:47,475 - INFO - Loaded ./data/P19_during.csv with shape (519, 43)
+2026-01-28 00:41:47,475 - INFO - HSI filtering: kept 76/519 rows (allowed=[1, 2])
+2026-01-28 00:41:47,478 - INFO - Saved participant summary: ./results/metrics/P19_summary.csv
+2026-01-28 00:41:47,481 - INFO - Loaded ./data/P20_before.csv with shape (297, 43)
+2026-01-28 00:41:47,481 - INFO - HSI filtering: kept 286/297 rows (allowed=[1, 2])
+2026-01-28 00:41:47,487 - INFO - Loaded ./data/P20_during.csv with shape (734, 43)
+2026-01-28 00:41:47,488 - INFO - HSI filtering: kept 103/734 rows (allowed=[1, 2])
+2026-01-28 00:41:47,490 - INFO - Saved participant summary: ./results/metrics/P20_summary.csv
+2026-01-28 00:41:47,493 - INFO - Loaded ./data/P21_before.csv with shape (318, 43)
+2026-01-28 00:41:47,494 - INFO - HSI filtering: kept 310/318 rows (allowed=[1, 2])
+2026-01-28 00:41:47,500 - INFO - Loaded ./data/P21_during.csv with shape (845, 43)
+2026-01-28 00:41:47,500 - INFO - HSI filtering: kept 456/845 rows (allowed=[1, 2])
+2026-01-28 00:41:47,503 - INFO - Saved participant summary: ./results/metrics/P21_summary.csv
+2026-01-28 00:41:47,508 - INFO - Saved master summary: ./results/metrics/All_Participants_Summary.csv
+2026-01-28 00:41:47,932 - INFO - Saved figure: ./results/figures/Alpha_mean_comparison.png
+2026-01-28 00:41:47,993 - INFO - Saved figure: ./results/figures/Alpha_mean_paired_lines.png
+2026-01-28 00:41:48,146 - INFO - Saved figure: ./results/figures/Theta_Beta_Ratio_comparison.png
+2026-01-28 00:41:48,214 - INFO - Saved figure: ./results/figures/Theta_Beta_Ratio_paired_lines.png
+2026-01-28 00:41:48,334 - INFO - Saved figure: ./results/figures/Meditation_Index_comparison.png
+2026-01-28 00:41:48,391 - INFO - Saved figure: ./results/figures/Meditation_Index_paired_lines.png
+2026-01-28 00:41:48,549 - INFO - Saved figure: ./results/figures/HeartRate_mean_comparison.png
+2026-01-28 00:41:48,613 - INFO - Saved figure: ./results/figures/HeartRate_mean_paired_lines.png
+2026-01-28 00:41:48,698 - INFO - Saved heatmap: ./results/figures/EEG_RelativePower_Heatmap.png
+2026-01-28 00:41:48,774 - INFO - Saved correlation matrix: ./results/figures/Correlation_Matrix.png
+2026-01-28 00:41:48,785 - INFO - Saved statistical summary: ./results/metrics/Statistical_Summary.csv
+2026-01-28 00:41:48,787 - INFO - Wrote session report to ./results/metrics/Session_Report.txt
+2026-01-28 00:41:48,787 - INFO - Batch processing complete.
+2026-01-28 00:41:48,787 - INFO - Done.
