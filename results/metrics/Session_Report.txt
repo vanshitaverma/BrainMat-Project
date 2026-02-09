@@ -1,0 +1,47 @@
+BrainMat Study — Session Report
+========================================
+FILTER_GOOD_SIGNAL = True | HSI_ALLOWED = [1, 2]
+
+Group-level statistics (selected metrics):
+- AccMag_mean: N=21, Mean %Δ = 1.30%, p=0.08161758341027096, Cohen's d = 0.400
+- AccMag_std: N=20, Mean %Δ = 1484.31%, p=6.769363781780481e-08, Cohen's d = 1.900
+- Alpha_Delta_Ratio: N=21, Mean %Δ = -39.03%, p=0.022181340719411045, Cohen's d = -0.541
+- Alpha_mean: N=21, Mean %Δ = 36.96%, p=0.01340745126362245, Cohen's d = 0.592
+- Beta_mean: N=21, Mean %Δ = 36.08%, p=0.031040324425973716, Cohen's d = 0.506
+- Calmness_Index: N=21, Mean %Δ = -39.03%, p=0.022181340719411045, Cohen's d = -0.541
+- Delta_mean: N=21, Mean %Δ = 199.20%, p=6.074327978561992e-05, Cohen's d = 1.103
+- Engagement_Index: N=21, Mean %Δ = 1.48%, p=0.156024656945067, Cohen's d = -0.322
+- Focus_Index: N=21, Mean %Δ = 110.29%, p=0.003167569426050482, Cohen's d = 0.732
+- Frontal_Alpha_Asymmetry: N=17, Mean %Δ = -56.49%, p=0.802101771179622, Cohen's d = 0.062
+- Gamma_mean: N=21, Mean %Δ = -41.30%, p=0.039910730812992255, Cohen's d = 0.480
+- HeartRate_mean: N=21, Mean %Δ = 26.82%, p=3.770783683683213e-07, Cohen's d = 1.616
+- HeartRate_std: N=20, Mean %Δ = 159.16%, p=3.491841173456428e-06, Cohen's d = 1.443
+- Meditation_Index: N=21, Mean %Δ = 37.07%, p=0.22575370736649508, Cohen's d = 0.273
+- Relative_Alpha: N=21, Mean %Δ = -25.03%, p=7.384037295711423e-05, Cohen's d = -1.084
+- Relative_Beta: N=21, Mean %Δ = -19.55%, p=0.0001442021811646075, Cohen's d = -1.021
+- Relative_Delta: N=21, Mean %Δ = 59.03%, p=0.06316568155210248, Cohen's d = 0.429
+- Relative_Gamma: N=21, Mean %Δ = -90.38%, p=0.1678566261796453, Cohen's d = 0.312
+- Relative_Theta: N=21, Mean %Δ = 47.90%, p=0.001208975491722506, Cohen's d = 0.822
+- Theta_Beta_Ratio: N=21, Mean %Δ = 110.29%, p=0.003167569426050482, Cohen's d = 0.732
+- Theta_mean: N=21, Mean %Δ = 190.00%, p=5.180188265099756e-06, Cohen's d = 1.343
+
+Significant changes (p < 0.05):
+* AccMag_std: mean %Δ = 1484.31% (p = 0.0000)
+* Alpha_Delta_Ratio: mean %Δ = -39.03% (p = 0.0222)
+* Alpha_mean: mean %Δ = 36.96% (p = 0.0134)
+* Beta_mean: mean %Δ = 36.08% (p = 0.0310)
+* Calmness_Index: mean %Δ = -39.03% (p = 0.0222)
+* Delta_mean: mean %Δ = 199.20% (p = 0.0001)
+* Focus_Index: mean %Δ = 110.29% (p = 0.0032)
+* Gamma_mean: mean %Δ = -41.30% (p = 0.0399)
+* HeartRate_mean: mean %Δ = 26.82% (p = 0.0000)
+* HeartRate_std: mean %Δ = 159.16% (p = 0.0000)
+* Relative_Alpha: mean %Δ = -25.03% (p = 0.0001)
+* Relative_Beta: mean %Δ = -19.55% (p = 0.0001)
+* Relative_Theta: mean %Δ = 47.90% (p = 0.0012)
+* Theta_Beta_Ratio: mean %Δ = 110.29% (p = 0.0032)
+* Theta_mean: mean %Δ = 190.00% (p = 0.0000)
+
+Interpretation (automated suggestions):
+- Alpha increased significantly: suggests increased calm/relaxed alertness during walking on BrainMat.
+- Theta/Beta ratio increased significantly: suggests greater meditative focus during walking.
